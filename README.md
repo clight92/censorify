@@ -1,0 +1,2 @@
+# censorify
+censors some words
