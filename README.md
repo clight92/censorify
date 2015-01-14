@@ -1,2 +1,1 @@
-# censorify
-censors some words
+THE INSTRUCTIONS ARE TO NOT CURSE
